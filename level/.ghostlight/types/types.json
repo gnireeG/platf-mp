@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d72c63a1-e251-4902-b32d-05b567d09437",
+    "name": "Block",
+    "width": 0,
+    "height": 0,
+    "texture": "#6B7280",
+    "resize": "Disable",
+    "props": []
+  },
+  {
+    "id": "809a375f-5c2a-462e-a7df-21dfd926111b",
+    "name": "Spike",
+    "width": 0,
+    "height": 0,
+    "texture": "#b30909",
+    "resize": "Disable",
+    "props": []
+  },
+  {
+    "id": "f416f544-dc2c-4ed8-b652-1a212fdd074d",
+    "name": "Start",
+    "width": 0,
+    "height": 0,
+    "texture": "#848c1d",
+    "resize": "Disable",
+    "props": []
+  },
+  {
+    "id": "d28436e4-a196-4085-91bf-9daeaa07b11d",
+    "name": "End",
+    "width": 0,
+    "height": 0,
+    "texture": "#5e8e15",
+    "resize": "Disable",
+    "props": []
+  }
+]
